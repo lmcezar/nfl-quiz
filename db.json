@@ -5,25 +5,40 @@
   "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://media.giphy.com/media/NHc3M0YHQZCBdNqFrN/giphy.gif",
+      "title": "Qual posição do jogador que passa a bola para o Quarterback?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 3,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Wide Receiver",
+        "Running Back",
+        "Full Back",
+        "Center"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://i.gifer.com/5ENG.gif",
+      "title": "Quantos Superbowls ja teve até o ano de 2021?",
+      "description": "Vamos complicar um pouco as coisas hehe",
+      "answer": 2,
+      "alternatives": [
+         "48",
+         "50",
+         "55",
+         "60"
+      ]
+    },
+
+    {
+      "image": "https://i.gifer.com/5pBD.gif",
+      "title": "QUem se apresentou no show do intervalo do Super Bowl XLVIII",
+      "description": "Fácil demais!!",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "Bruno Mars, Red Hot Chili Peppers",
+         "Coldplay, Beyoncé e Bruno Mars",
+         "Lady Gaga",
+         "Maroon 5, Travis Scott, Big Boi"
       ]
     }
   ],

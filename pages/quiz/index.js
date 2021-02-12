@@ -139,11 +139,11 @@ function QuestionWidget({
           <Button type="submit" disabled={!hasAlternativeSelected}>
             Confirmar
           </Button>
-          <p>
+          {/* <p>
             selectedAlternative:
 
             {`${selectedAlternative}`}
-          </p>
+          </p> */}
           {isQuestionSubmited && isCorrect && <p>Você acertou!</p>}
           {isQuestionSubmited && !isCorrect && <p>Você errou!</p>}
 

@@ -37,6 +37,9 @@ ul {
   list-style: none;
   padding: 0;
 }
+a{
+  color: #FFF;
+}
 `;
 
 Widget.Header = styled.header`
